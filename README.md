@@ -3,8 +3,8 @@ RESTful web service for storing user's files
 ##
 <h4>To start application:</h4>
 1) run <code>sudo docker-compose run -d -p 5432:5432 db</code>
-</br>
-2) run <code>mvn clean install</code>
+<br/>
+2) run <code>mvn clean install</code><br/>
 3) Start application with <code>java -jar fileexchanger-0.0.1.jar</code>
 ##
 <h4>Requests and responses example:</h4>
